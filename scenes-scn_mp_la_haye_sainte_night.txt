@@ -2,4 +2,3 @@ scn_mp_la_haye_sainte_night mp_la_haye_sainte_night 256 none none 0.000000 0.000
   0
   0
  outer_terrain_plain 
- 
