@@ -1,0 +1,4 @@
+scn_mp_la_haye_sainte_night mp_la_haye_sainte_night 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b
+  0
+  0
+ outer_terrain_plain 
