@@ -1,0 +1,4 @@
+scn_mp_quatre_bras_night mp_quatre_bras_night 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000330004563000d23480000074800005c49000021c5 
+  0 
+  0 
+ outer_terrain_beach 
