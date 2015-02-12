@@ -1,0 +1,4 @@
+scn_mp_hougoumont_night mp_hougoumont_night 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000024002a1ba000298a100003ca000006a8900007a7b
+  0 
+  0 
+ outer_terrain_snow
